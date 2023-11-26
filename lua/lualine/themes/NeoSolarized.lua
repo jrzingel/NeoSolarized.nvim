@@ -9,7 +9,7 @@ local theme = {}
 
 theme = {
   normal = {
-    a = { bg = palette.bg_orange, fg = palette.bg0, gui = 'bold' },
+    a = { bg = palette.orange, fg = palette.bg0, gui = 'bold' },
     b = { bg = light and palette.bg1 or palette.bg0, fg = light and palette.base3 or palette.fg0 },
     c = { bg = light and palette.bg1 or palette.bg0, fg = light and palette.base3 or palette.fg0 },
   },
